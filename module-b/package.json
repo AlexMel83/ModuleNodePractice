@@ -1,0 +1,12 @@
+{
+  "name": "module-b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "b1.js",
+  "type":"commonjs",
+  "scripts": {
+    "start": "node ../index.js"
+  },
+  "author": "Alexander Meleshko",
+  "license": "ISC"
+}

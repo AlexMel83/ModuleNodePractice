@@ -1,0 +1,12 @@
+{
+  "name": "modulenodepractice",
+  "version": "1.0.0",
+  "description": "ModuleNodePracticeстворити проєкт з такою ж структурою файлів та модулів;",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Meleshko Alexander",
+  "license": "ISC"
+}
